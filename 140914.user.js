@@ -10,7 +10,7 @@
 // @ icon        http://db.etree.org/images/icons/etsycart.png
 // @license     GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
 // @author      Tom Anderson <tom.h.anderson@gmail.com>
-// @version     0.9.0
+// @version     1.0.1
 // ==/UserScript==
 
 function addJQuery(callback) {
