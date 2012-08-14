@@ -3,14 +3,14 @@
 // @description Updates the userscript code from the remotely hosted version
 // @match       http://userscripts.org/scripts/show/*
 // @match       http://www.userscripts.org/scripts/show/*
-// @ homepage    http://userscripts.org/scripts/show/140731
-// @ downloadURL http://userscripts.org/scripts/source/140731.user.js
-// @ installURL  http://userscripts.org/scripts/source/140731.user.js
-// @ updateURL   http://userscripts.org/scripts/source/140731.user.js
-// @ icon        http://db.etree.org/images/icons/etsycart.png
+// @homepage    http://userscripts.org/scripts/show/140914
+// @downloadURL http://userscripts.org/scripts/source/140914.user.js
+// @installURL  http://userscripts.org/scripts/source/140914.user.js
+// @updateURL   http://userscripts.org/scripts/source/140914.user.js
+// @icon        http://s3.amazonaws.com/uso_ss/icon/140914/large.png?1344970976
 // @license     GPL version 3 or any later version; http://www.gnu.org/copyleft/gpl.html
 // @author      Tom Anderson <tom.h.anderson@gmail.com>
-// @version     1.0.1
+// @version     1.0.2
 // ==/UserScript==
 
 function addJQuery(callback) {

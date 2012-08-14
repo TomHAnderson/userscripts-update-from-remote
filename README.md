@@ -9,4 +9,6 @@ http://userscripts.org/scripts/show/140914
 
 Change Log
 ----------
+1.0.2 - Added metadata for updates
+
 1.0.1 - First release!
