@@ -3,6 +3,8 @@
 // @description Updates the userscript code from the remotely hosted version
 // @match       http://userscripts.org/scripts/show/*
 // @match       http://www.userscripts.org/scripts/show/*
+// @match       https://userscripts.org/scripts/show/*
+// @match       https://www.userscripts.org/scripts/show/*
 // @homepage    http://userscripts.org/scripts/show/140914
 // @downloadURL http://userscripts.org/scripts/source/140914.user.js
 // @installURL  http://userscripts.org/scripts/source/140914.user.js
